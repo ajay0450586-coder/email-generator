@@ -1,0 +1,23 @@
+email-generator/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── EmailForm.jsx
+│ │ ├── EmailPreview.jsx
+│ │ ├── TemplateCard.jsx
+│ │ └── Header.jsx
+│ ├── data/
+│ │ └── templates.js
+│ ├── hooks/
+│ │ └── useEmailGenerator.js
+│ ├── styles/
+│ │ ├── App.css
+│ │ ├── EmailForm.css
+│ │ ├── EmailPreview.css
+│ │ └── index.css
+│ ├── utils/
+│ │ └── copyToClipboard.js
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+└── package.json
